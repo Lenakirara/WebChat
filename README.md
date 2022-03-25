@@ -59,7 +59,7 @@ O MVC será usado para renderizar as mensagens do histórico e usuários online,
 
    - `git clone git@github.com:Lenakirara/WebChat.git`.
    - Entre na pasta do repositório que você acabou de clonar:
-     - `cd sd-011-project-webchat`
+     - `cd WebChat`
 
 2. Crie uma branch a partir da branch `master`
 
